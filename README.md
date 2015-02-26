@@ -26,7 +26,7 @@
 显示对效果如下：
        
 
-
+ ![image](https://github.com/yanglichuan/android-lotterywheel/edit/master/device-2015-02-26-160629.png)
 
 
 
