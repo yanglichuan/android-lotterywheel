@@ -3,12 +3,12 @@
 
 
 在布局中对应用：
-		  <com.ylc.lotterywheel.MyLotteryWheel
+		  com.ylc.lotterywheel.MyLotteryWheel
 		        android:id="@+id/lotterywheel"
 		        android:layout_width="300dp"
 		        android:layout_height="300dp"
 		        android:layout_centerInParent="true"
-		        />
+		      
 		        
         
 
